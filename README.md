@@ -333,8 +333,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Author**: Awshesh
-- **Email**: awshesh@example.com
-- **GitHub**: [@awshesh](https://github.com/awshesh)
+- **Email**: awsheshnathsharma1234@gmail.com
+- **GitHub**: [@awshesh](https://github.com/awshesh12)
 
 ## Changelog
 
